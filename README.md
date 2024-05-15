@@ -15,4 +15,4 @@ Desarrollo
 Desarrollado utilizando C# en el entorno de Visual Studio. Puede ser modificado para incluir más funcionalidades como soporte para más idiomas o un rango más amplio de números.
 
 Licencia
-Este proyecto es de código abierto bajo la licencia MIT.# numtostring
+Este proyecto es de código abierto bajo la licencia MIT.
