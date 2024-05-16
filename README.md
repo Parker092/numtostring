@@ -1,5 +1,4 @@
 ### Convertidor de Números a Palabras
-Este proyecto en C# es una aplicación de consola que convierte números enteros en su representación textual en inglés. La aplicación puede manejar números desde -9999 hasta 9999 y proporciona una interfaz interactiva para que los usuarios ingresen números repetidamente hasta que decidan salir.
 
 ### Características
 Rango de Conversión: Maneja números desde -9999 hasta 9999, incluyendo números negativos.
