@@ -14,5 +14,9 @@ Requisitos
 Desarrollo
 Desarrollado utilizando C# en el entorno de Visual Studio. Puede ser modificado para incluir más funcionalidades como soporte para más idiomas o un rango más amplio de números.
 
-Licencia
-Este proyecto es de código abierto bajo la licencia MIT.
+### Captura de Pantalla
+
+Aquí puedes ver cómo funciona el programa en la consola:
+
+![Captura de Pantalla del Programa](https://drive.google.com/file/d/1xt-_yvFscb1J3fHcAmwLhkOX5Jj8bau_/view?usp=sharing)
+
